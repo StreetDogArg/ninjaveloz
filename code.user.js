@@ -20,6 +20,7 @@
 // @version     1
 // @grant       none
 // ==/UserScript==
+
 (function() {
 	"use strict";
 	var activateProduct = function(e) {
