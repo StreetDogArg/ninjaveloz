@@ -19,3 +19,7 @@ Te invitamos a pasar por la comunidad:
 https://www.taringa.net/comunidades/juegos-originales-gratis-steam
 
 Gracias! Y Buen Ninjeo!
+
+PD2: FULL COMPATIBLE CON GREASEMONKEY (Firefox) y TAMPERMONKEY (Chrome)
+Para instalarlo deben darle al Botón RAW, y les salta la ventana de instalación o Entren directo a este enlace:
+https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
