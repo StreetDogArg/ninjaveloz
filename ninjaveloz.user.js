@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        NinjaVeloz
-// @author      raina ft. StreetDogARG
+// @author      raina
 // @colaborator StreetDogARG
-// @namespace   https://github.com/StreetDogArg/ninjaveloz
+// @namespace   raina ft. StreetDogARG
 // @homepage    https://www.taringa.net/comunidades/juegos-originales-gratis-steam
 // @defaulticon data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAJiYlAK/N+gAZBfcAPT09AJmZmQANBwAAbjQfANvq/wAFDQAA1tbWAAAAAAAAAAAAAAAAAAAAAAAAAAAAZHdmaqVmAABHdmZmqlYAAHdmZmZqpQAAZmZmZmaqUABmZmZmYAqlAAZmZmYAAKpQZmZmZmAAClBmEWEWYAAKpWYWZhZmAAClZmYWZmYAAKUoiGiIJgAACipqimopAAAKlmZmmZYAAAARmZkRMAAAADMzMzMAAAAAAGZmYDMAAAAADwAAAA8AAAAPAAAABwAAAGMAAIDxAAAAeQAAAHgAAAA8AAAAPAAAAD4AAAA+AAAAPwAAAH8AAAD/AADBPwAA
 // @icon64      data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAJiYlAK/N+gAZBfcAPT09AJmZmQANBwAAbjQfANvq/wAFDQAA1tbWAAAAAAAAAAAAAAAAAAAAAAAAAAAAZHdmaqVmAABHdmZmqlYAAHdmZmZqpQAAZmZmZmaqUABmZmZmYAqlAAZmZmYAAKpQZmZmZmAAClBmEWEWYAAKpWYWZhZmAAClZmYWZmYAAKUoiGiIJgAACipqimopAAAKlmZmmZYAAAARmZkRMAAAADMzMzMAAAAAAGZmYDMAAAAADwAAAA8AAAAPAAAABwAAAGMAAIDxAAAAeQAAAHgAAAA8AAAAPAAAAD4AAAA+AAAAPwAAAH8AAAD/AADBPwAA
@@ -26,12 +26,15 @@
 // @include     *://www.tremorgames.com/message/*
 // @include     *://www.listia.com/account/message/*
 // @include     *://www.listia.com/auction/*
+// @include     *://www.gleam.io/*
 // ------------ Sitios de ninjeo
 // @include     *://www.taringa.net/*
 // @include     *://whosgamingnow.net/discussion/*
 // @include     *://www.steamgifts.com/discussion/*
 // @include     *://steamcommunity.com/groups/*
 // ------------ Incluiré más sitios con el tiempo, a medida que me lo recomienden.
+// @updateURL   https://github.com/StreetDogArg/ninjaveloz/blob/master/ninjaveloz.user.js
+// @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
 // @version     1
 // @grant       none
 // ==/UserScript==
@@ -49,4 +52,3 @@
     };
     window.addEventListener("copy", activateProduct, false);
 }());
-
