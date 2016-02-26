@@ -34,7 +34,7 @@
 // @include     *://www.steamgifts.com/discussion/*
 // @include     *://steamcommunity.com/groups/*
 // ------------ Incluiré más sitios con el tiempo, a medida que me lo recomienden.
-// @updateURL   https://github.com/StreetDogArg/ninjaveloz/blob/master/ninjaveloz.user.js
+// @updateURL   https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
 // @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
 // @version     1.2
 // @grant       none
