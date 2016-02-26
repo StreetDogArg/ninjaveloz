@@ -1,8 +1,12 @@
 // ==UserScript==
 // @name        NinjaVeloz
-// @namespace   raina ft. StreetDogArg
+// @author      raina
+// @colaborator StreetDogARG
+// @namespace   raina ft. StreetDogARG
+// @homepage    https://www.taringa.net/comunidades/juegos-originales-gratis-steam
+// @defaulticon https://zebra.ninja/favicon.ico
 // @description Script que hace saltar la ventana de Activación de Keys en Steam cuando detecta una Key en el portapapeles, haciendo posible un mejor Ninjeo o más cómodo para cargar las keys que compraste en sitios, ver README para los sitios soportados. Este Script REQUIERE STEAM CORRIENDO.
-// Sitios de compra
+// ------------ Sitios de compra
 // @include     /^https?:\/\/www\.humblebundle\.com\/downloads\?/
 // @include     /^https?:\/\/www\.humblebundle\.com\/home\/(keys|library)/
 // @include     /^https?:\/\/www\.indieroyale\.com\/bundle\/key\//
@@ -13,16 +17,20 @@
 // @include     /^https?:\/\/(www\.)?dailyindiegame\.com\/account_page\.html/
 // @include     /^https?:\/\/www\.greenmangaming\.com\/user\/account/
 // @include     /^https:\/\/secure\.nuuvem\.com\/account\/library/
-// Sitios de sorteos, giveaways, etc
+// ------------ Sitios de sorteos, giveaways, etc
 // @include     /^https?:\/\/www\.steamgifts\.com\/giveaways\/won/
 // @include     /^https?:\/\/steamcompanion\.com\/gifts\/won/
 // @include     /^http:\/\/www\.dlh\.net\/en\/steam-keys\.html/
-// Sitios de ninjeo
-// @include     http://www.taringa.net/*
-// @include     https://www.taringa.net/*
-// @include     http://www.steamgifts.com/discussions
-// @include	http://whosgamingnow.net/discussion/
-// Incluiré más sitios con el tiempo, a medida que me lo recomienden.
+// @include     *://gameminer.net/messages/*
+// @include     *://www.tremorgames.com/message/*
+// @include     *://www.listia.com/account/message/*
+// @include     *://www.listia.com/auction/*
+// ------------ Sitios de ninjeo
+// @include     *://www.taringa.net/*
+// @include     *://whosgamingnow.net/discussion/*
+// @include     *://www.steamgifts.com/discussion/*
+// @include     *://steamcommunity.com/groups/*
+// ------------ Incluiré más sitios con el tiempo, a medida que me lo recomienden.
 // @version     1
 // @grant       none
 // ==/UserScript==
