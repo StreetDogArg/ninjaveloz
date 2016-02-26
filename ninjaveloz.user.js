@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        NinjaVeloz
 // @namespace   raina ft. StreetDogArg
-// @description 
+// @description Script que hace saltar la ventana de Activación de Keys en Steam cuando detecta una Key en el portapapeles, haciendo posible un mejor Ninjeo o más cómodo para 
 // @include     /^https?:\/\/www\.humblebundle\.com\/downloads\?/
 // @include     /^https?:\/\/www\.humblebundle\.com\/home\/(keys|library)/
 // @include     /^https?:\/\/www\.indieroyale\.com\/bundle\/key\//
