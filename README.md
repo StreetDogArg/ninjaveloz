@@ -7,6 +7,9 @@ Además es una comodidad para activar productos (keys) de páginas de compra de 
 Requiere de tener la aplicación de Steam corriendo en la misma pc donde quieras usar el script.
 
 Actualmente tiene Incluido en su ámbito de trabajo los siguientes sitios:
-Areas de catalogo o librerias adquiridas: HumbleBundle, IndieRoyale, IndieGala, Groupees, BundleStars, FlyingBundle, dialyindiegame, greenmangaming, nuuvem, DLH.net, 
+
+Librerias de Juegos Adquiridos: HumbleBundle, IndieRoyale, IndieGala, Groupees, BundleStars, FlyingBundle, dialyindiegame, greenmangaming, nuuvem, DLH.net
+
 Otros sitios: SteamGifts (sección WON), SteamCompanion (sección WON)
+
 Para Ninjeo: Taringa (todo el sitio)
