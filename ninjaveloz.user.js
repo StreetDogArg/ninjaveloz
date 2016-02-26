@@ -36,7 +36,7 @@
 // ------------ Incluiré más sitios con el tiempo, a medida que me lo recomienden.
 // @updateURL   https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
 // @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
-// @version     1.11
+// @version     1.2
 // @grant       none
 // ==/UserScript==
 
