@@ -27,6 +27,7 @@
 // @include     *://www.listia.com/account/message/*
 // @include     *://www.listia.com/auction/*
 // @include     *://www.gleam.io/*
+// @include     *://gleam.io/*
 // ------------ Sitios de ninjeo
 // @include     *://www.taringa.net/*
 // @include     *://whosgamingnow.net/discussion/*
