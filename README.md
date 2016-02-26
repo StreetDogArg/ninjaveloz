@@ -13,3 +13,9 @@ Librerias de Juegos Adquiridos: HumbleBundle, IndieRoyale, IndieGala, Groupees, 
 Otros sitios: SteamGifts (sección WON), SteamCompanion (sección WON)
 
 Para Ninjeo: Taringa (todo el sitio)
+
+PD: Script reformateado por STREETDOGARG, creado por RAINA.
+Te invitamos a pasar por la comunidad:
+https://www.taringa.net/comunidades/juegos-originales-gratis-steam
+
+Gracias! Y Buen Ninjeo!
