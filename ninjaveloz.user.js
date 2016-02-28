@@ -35,10 +35,11 @@
 // @include     *://steamcommunity.com/groups/*
 // ------------ Otros (pesonales, mails)
 // @include     https://*.mail.live.com/*
+// @include     https://outlook.live.com/*
 // ------------ Incluiré más sitios con el tiempo, a medida que me lo recomienden.
 // @updateURL   https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
 // @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
-// @version     1.3
+// @version     1.4
 // @grant       none
 // ==/UserScript==
 
