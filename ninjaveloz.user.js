@@ -33,10 +33,12 @@
 // @include     *://whosgamingnow.net/discussion/*
 // @include     *://www.steamgifts.com/discussion/*
 // @include     *://steamcommunity.com/groups/*
+// ------------ Otros (pesonales, mails)
+// @include     https://*.mail.live.com/*
 // ------------ Incluiré más sitios con el tiempo, a medida que me lo recomienden.
 // @updateURL   https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
 // @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
-// @version     1.2
+// @version     1.3
 // @grant       none
 // ==/UserScript==
 
