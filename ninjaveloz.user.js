@@ -29,17 +29,18 @@
 // @include     *://www.gleam.io/*
 // @include     *://gleam.io/*
 // ------------ Sitios de ninjeo
+// @include     *://steamcommunity.com/groups/*
 // @include     *://www.taringa.net/*
 // @include     *://whosgamingnow.net/discussion/*
 // @include     *://www.steamgifts.com/discussion/*
-// @include     *://steamcommunity.com/groups/*
+// @include     *://www.facebook.com/*
 // ------------ Otros (pesonales, mails)
 // @include     https://*.mail.live.com/*
 // @include     https://outlook.live.com/*
 // ------------ Incluiré más sitios con el tiempo, a medida que me lo recomienden.
 // @updateURL   https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
 // @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
-// @version     1.4
+// @version     1.5
 // @grant       none
 // ==/UserScript==
 
