@@ -18,11 +18,9 @@
 // @include     /^https?:\/\/(www\.)?dailyindiegame\.com\/account_page\.html/
 // @include     /^https?:\/\/www\.greenmangaming\.com\/user\/account/
 // @include     /^https:\/\/secure\.nuuvem\.com\/account\/library/
-// @include     *://www.tremorgames.com/message/*
 // ------------ Sitios de sorteos, giveaways, etc
 // @include     /^https?:\/\/www\.steamgifts\.com\/giveaways\/won/
 // @include     /^https?:\/\/steamcompanion\.com\/gifts\/won/
-// @include     /^http:\/\/www\.dlh\.net\/en\/steam-keys\.html/
 // @include     *://gameminer.net/messages/*
 // @include     *://www.tremorgames.com/message/*
 // @include     *://www.listia.com/account/message/*
