@@ -18,6 +18,7 @@
 // @include     /^https?:\/\/(www\.)?dailyindiegame\.com\/account_page\.html/
 // @include     /^https?:\/\/www\.greenmangaming\.com\/user\/account/
 // @include     /^https:\/\/secure\.nuuvem\.com\/account\/library/
+// @include     *://www.tremorgames.com/message/*
 // ------------ Sitios de sorteos, giveaways, etc
 // @include     /^https?:\/\/www\.steamgifts\.com\/giveaways\/won/
 // @include     /^https?:\/\/steamcompanion\.com\/gifts\/won/
@@ -29,18 +30,23 @@
 // @include     *://www.gleam.io/*
 // @include     *://gleam.io/*
 // ------------ Sitios de ninjeo
-// @include     *://steamcommunity.com/groups/*
+// @include     *://steamcommunity.com/*
 // @include     *://www.taringa.net/*
 // @include     *://whosgamingnow.net/discussion/*
 // @include     *://www.steamgifts.com/discussion/*
 // @include     *://www.facebook.com/*
+// @include     *://www.twitter.com/*
+// @include     *.chatango.com/*
+// @include     *://www.hrkgame.com/*
+// @include     *://www.bundlestars.com/*
+// @include     *://www.dlh.net/*
 // ------------ Otros (pesonales, mails)
 // @include     https://*.mail.live.com/*
 // @include     https://outlook.live.com/*
 // ------------ Incluiré más sitios con el tiempo, a medida que me lo recomienden.
 // @updateURL   https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
 // @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
-// @version     1.5
+// @version     1.6
 // @grant       none
 // ==/UserScript==
 
