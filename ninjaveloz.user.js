@@ -7,11 +7,9 @@
 // @defaulticon data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAJiYlAK/N+gAZBfcAPT09AJmZmQANBwAAbjQfANvq/wAFDQAA1tbWAAAAAAAAAAAAAAAAAAAAAAAAAAAAZHdmaqVmAABHdmZmqlYAAHdmZmZqpQAAZmZmZmaqUABmZmZmYAqlAAZmZmYAAKpQZmZmZmAAClBmEWEWYAAKpWYWZhZmAAClZmYWZmYAAKUoiGiIJgAACipqimopAAAKlmZmmZYAAAARmZkRMAAAADMzMzMAAAAAAGZmYDMAAAAADwAAAA8AAAAPAAAABwAAAGMAAIDxAAAAeQAAAHgAAAA8AAAAPAAAAD4AAAA+AAAAPwAAAH8AAAD/AADBPwAA
 // @icon64      data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAJiYlAK/N+gAZBfcAPT09AJmZmQANBwAAbjQfANvq/wAFDQAA1tbWAAAAAAAAAAAAAAAAAAAAAAAAAAAAZHdmaqVmAABHdmZmqlYAAHdmZmZqpQAAZmZmZmaqUABmZmZmYAqlAAZmZmYAAKpQZmZmZmAAClBmEWEWYAAKpWYWZhZmAAClZmYWZmYAAKUoiGiIJgAACipqimopAAAKlmZmmZYAAAARmZkRMAAAADMzMzMAAAAAAGZmYDMAAAAADwAAAA8AAAAPAAAABwAAAGMAAIDxAAAAeQAAAHgAAAA8AAAAPAAAAD4AAAA+AAAAPwAAAH8AAAD/AADBPwAA
 // @description Script que hace saltar la ventana de Activación de Keys en Steam cuando detecta una Key en el portapapeles, haciendo posible un mejor Ninjeo o más cómodo para cargar las keys que compraste en sitios, ver README para los sitios soportados. Este Script REQUIERE STEAM CORRIENDO.
-// ------------ Sitios de compra
 // @include     *
-// @updateURL   https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
-// @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
-// @version     0
+// @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/ACTIVO/ninjaveloz.user.js
+// @version     1
 // @grant       none
 // ==/UserScript==
 
