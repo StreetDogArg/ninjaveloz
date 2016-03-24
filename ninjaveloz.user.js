@@ -32,19 +32,23 @@
 // @include     *://www.taringa.net/*
 // @include     *://whosgamingnow.net/discussion/*
 // @include     *://www.steamgifts.com/discussion/*
-// @include     *://www.facebook.com/*
-// @include     *://www.twitter.com/*
 // @include     *.chatango.com/*
 // @include     *://www.hrkgame.com/*
 // @include     *://www.bundlestars.com/*
 // @include     *://www.dlh.net/*
+// @include     *://twitch.tv/*
 // ------------ Otros (pesonales, mails)
 // @include     https://*.mail.live.com/*
 // @include     https://outlook.live.com/*
+// @include     *://www.facebook.com/*
+// @include     *://www.twitter.com/*
+// @include     *://tweetdeck.twitter.com/*
+// @include     *://web.whatsapp.org/*
+// @include     *://web.telegram.org
 // ------------ Incluiré más sitios con el tiempo, a medida que me lo recomienden.
 // @updateURL   https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
 // @downloadURL https://github.com/StreetDogArg/ninjaveloz/raw/master/ninjaveloz.user.js
-// @version     1.6
+// @version     1.7
 // @grant       none
 // ==/UserScript==
 
